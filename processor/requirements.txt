@@ -1,0 +1,7 @@
+kafka-python==2.0.2
+pyarrow==14.0.2
+fastparquet==2023.10.1
+pandas==2.1.4
+SQLAlchemy==2.0.23
+python-dateutil==2.8.2
+requests==2.31.0
